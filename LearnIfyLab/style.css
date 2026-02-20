@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+#thingsuneed {
+  color: "greenyellow";
+}
+
+body {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  font-family: Arial, sans-serif;
+}
+#itwillrestart11 {
+  color: greenyellow;
+}
+
+#backfrominstallaitonkalilinux {
+  background-color: greenyellow;
+  color: black;
+  font-size: 16px;
+  padding: 16px 18px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#warn12 {
+  color: red;
+  text-align: center;
+}
+#green12432 {
+  color: green;
+  text-align: center;
+}
